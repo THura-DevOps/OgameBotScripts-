@@ -1,2 +1,5 @@
 # MyFirsProject
-Java Code to create Auction Bot for online game Ogame. 
+Script for Ogame onli-game tools 
+Auction Bot
+Auction Timer
+HotKeys Auction 
