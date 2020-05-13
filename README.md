@@ -15,3 +15,4 @@
   - Enables you to bit using keys rather than PC mouse
   - Enables you to choos value of single bit by key stroke 
   - Enables you to choose type of resources to bit from 
+
